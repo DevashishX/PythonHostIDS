@@ -1,0 +1,3 @@
+sendgrid.env
+__pycache__/
+__reports__/*

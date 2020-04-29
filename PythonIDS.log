@@ -1,0 +1,207 @@
+2020-04-29 18:56:18,408 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 18:56:18,408 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 18:56:18,409 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 18:56:47,515 - root - INFO - Watch Created
+2020-04-29 18:56:52,014 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 18:56:52,024 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 18:56:52,025 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 18:57:09,328 - root - INFO - Watch Created
+2020-04-29 18:57:13,043 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 18:57:13,045 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 18:57:13,045 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 18:57:38,012 - root - INFO - Watch Created
+2020-04-29 18:57:39,627 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 18:57:39,638 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 18:57:39,639 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 18:58:55,681 - root - INFO - Watch Created
+2020-04-29 18:59:01,635 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 18:59:01,646 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 18:59:01,647 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 18:59:03,664 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-18:59:03.656793.csv saved
+2020-04-29 20:03:17,228 - root - INFO - Watch Created
+2020-04-29 20:03:18,214 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:18,224 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:18,225 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:03:20,231 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:03:20.229230.csv saved
+2020-04-29 20:03:20,789 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:20,789 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:20,790 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:03:21,481 - root - INFO - Email send Succesfully
+2020-04-29 20:03:23,489 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:03:23.487821.csv saved
+2020-04-29 20:03:23,909 - root - INFO - Email send Succesfully
+2020-04-29 20:03:24,050 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:24,055 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:24,055 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:03:26,067 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:03:26.061385.csv saved
+2020-04-29 20:03:26,446 - root - INFO - Email send Succesfully
+2020-04-29 20:03:26,639 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:26,650 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:26,650 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:03:28,662 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:03:28.658515.csv saved
+2020-04-29 20:03:29,168 - root - INFO - Email send Succesfully
+2020-04-29 20:03:29,232 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:29,243 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:29,244 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:03:31,253 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:03:31.249507.csv saved
+2020-04-29 20:03:31,655 - root - INFO - Email send Succesfully
+2020-04-29 20:03:31,823 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:03:31,834 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:03:31,834 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:06:42,019 - root - INFO - Watch Created
+2020-04-29 20:06:43,992 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:06:44,003 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:06:44,003 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:06:46,012 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:06:46.010419.csv saved
+2020-04-29 20:06:46,573 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:06:46,573 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:06:46,573 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:06:46,709 - root - INFO - Email sent Succesfully
+2020-04-29 20:06:48,718 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:06:48.715161.csv saved
+2020-04-29 20:06:49,158 - root - INFO - Email sent Succesfully
+2020-04-29 20:06:49,286 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:06:49,291 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:06:49,291 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:06:51,298 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:06:51.296001.csv saved
+2020-04-29 20:06:51,732 - root - INFO - Email sent Succesfully
+2020-04-29 20:06:51,873 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:06:51,879 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:06:51,879 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:07:58,708 - root - INFO - Watch Created
+2020-04-29 20:08:00,210 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:08:00,210 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:08:00,211 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:08:02,222 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:08:02.217672.csv saved
+2020-04-29 20:09:30,613 - root - INFO - Watch Created
+2020-04-29 20:09:32,971 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:09:32,973 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:09:32,974 - root - INFO - Received Updates
+2020-04-29 20:09:32,974 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:09:34,982 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:09:34.979061.csv saved
+2020-04-29 20:09:34,983 - root - ERROR - Email Error: [Errno 2] No such file or directory: '/home/devashish/Documents/projects/PythonHostIDS/reports/home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:09:34.979061.csv'
+2020-04-29 20:10:27,071 - root - INFO - Watch Created
+2020-04-29 20:10:28,052 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:10:28,054 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:10:28,055 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:10:28,057 - root - INFO - Received Updates
+2020-04-29 20:10:30,060 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:10:30.059285.csv saved
+2020-04-29 20:10:30,061 - root - ERROR - Email Error: [Errno 2] No such file or directory: '/home/devashish/Documents/projects/PythonHostIDS/reportsreport-2020-04-29-20:10:30.059285.csv'
+2020-04-29 20:10:43,272 - root - INFO - Watch Created
+2020-04-29 20:10:44,242 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:10:44,252 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:10:44,253 - root - INFO - Received Updates
+2020-04-29 20:10:44,253 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:10:46,260 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:10:46.257703.csv saved
+2020-04-29 20:10:46,680 - root - INFO - Email sent Succesfully
+2020-04-29 20:11:24,859 - root - INFO - Watch Created
+2020-04-29 20:11:27,907 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:11:27,917 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:11:27,918 - root - INFO - Received Updates
+2020-04-29 20:11:27,918 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:11:29,930 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:11:29.925701.csv saved
+2020-04-29 20:11:30,412 - root - INFO - Email sent Succesfully
+2020-04-29 20:11:50,944 - root - INFO - Watch Created
+2020-04-29 20:12:04,379 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:12:04,385 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:12:04,385 - root - INFO - Received Updates
+2020-04-29 20:12:04,385 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:12:04,388 - root - WARNING - Method name: process_IN_CREATE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newfile.txt, Event Name: IN_CREATE
+2020-04-29 20:12:04,388 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newfile.txt, Event Name: IN_OPEN
+2020-04-29 20:12:04,388 - root - WARNING - Method name: process_IN_ATTRIB(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newfile.txt, Event Name: IN_ATTRIB
+2020-04-29 20:12:04,388 - root - WARNING - Method name: process_IN_CLOSE_WRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newfile.txt, Event Name: IN_CLOSE_WRITE
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:12:04,389 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:12:06,402 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:12:06.397050.csv saved
+2020-04-29 20:12:06,893 - root - INFO - Email sent Succesfully
+2020-04-29 20:13:24,085 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:13:24,091 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:13:24,091 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:13:24,091 - root - INFO - Received Updates
+2020-04-29 20:13:26,098 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:13:26.095749.csv saved
+2020-04-29 20:13:41,670 - root - WARNING - Method name: process_IN_CREATE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt, Event Name: IN_CREATE
+2020-04-29 20:13:41,670 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt, Event Name: IN_OPEN
+2020-04-29 20:13:41,671 - root - WARNING - Method name: process_IN_ATTRIB(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt, Event Name: IN_ATTRIB
+2020-04-29 20:13:41,672 - root - WARNING - Method name: process_IN_CLOSE_WRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt, Event Name: IN_CLOSE_WRITE
+2020-04-29 20:13:41,672 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:13:41,673 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:13:41,673 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:13:41,673 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:13:41,673 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:13:41,673 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:13:44,140 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:13:44,141 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:13:44,143 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:13:44,145 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:13:46,141 - root - ERROR - Email Error: <urlopen error [Errno -3] Temporary failure in name resolution>
+2020-04-29 20:13:46,145 - root - INFO - Received Updates
+2020-04-29 20:13:48,156 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:13:48.152573.csv saved
+2020-04-29 20:14:08,206 - root - ERROR - Email Error: <urlopen error [Errno -3] Temporary failure in name resolution>
+2020-04-29 20:15:21,612 - root - INFO - Watch Created
+2020-04-29 20:15:24,683 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:15:24,693 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:15:24,693 - root - INFO - Received Updates
+2020-04-29 20:15:24,693 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:15:26,708 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:15:26.701761.csv saved
+2020-04-29 20:15:41,988 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:15:41,989 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:15:41,991 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:15:41,992 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:15:46,765 - root - ERROR - Email Error: <urlopen error [Errno -3] Temporary failure in name resolution>
+2020-04-29 20:15:46,769 - root - INFO - Received Updates
+2020-04-29 20:15:48,782 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:15:48.779196.csv saved
+2020-04-29 20:16:08,820 - root - ERROR - Email Error: <urlopen error [Errno -3] Temporary failure in name resolution>
+2020-04-29 20:29:11,532 - root - INFO - Watch Created
+2020-04-29 20:29:14,801 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:29:14,813 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:29:14,813 - root - INFO - Received Updates
+2020-04-29 20:29:14,813 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:29:16,823 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:29:16.820655.csv saved
+2020-04-29 20:29:16,832 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:29:16,835 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:29:16,840 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:29:25,215 - root - ERROR - Email Error: <urlopen error [Errno 101] Network is unreachable>
+2020-04-29 20:29:25,216 - root - INFO - Received Updates
+2020-04-29 20:29:27,230 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:29:27.224922.csv saved
+2020-04-29 20:29:27,254 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:29:27,256 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:29:27,271 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:29:27,272 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:39:31,966 - root - INFO - Watch Created
+2020-04-29 20:39:34,833 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 20:39:34,843 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 20:39:34,843 - root - INFO - Received Updates
+2020-04-29 20:39:34,844 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 20:39:36,863 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-20:39:36.855976.csv saved
+2020-04-29 20:39:37,760 - root - INFO - Email sent Succesfully
+2020-04-29 21:00:24,009 - root - INFO - Watch Created
+2020-04-29 21:15:05,143 - root - INFO - Watch Created
+2020-04-29 21:15:11,878 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 21:15:11,888 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 21:15:11,889 - root - INFO - Received Updates
+2020-04-29 21:15:11,891 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 21:15:13,899 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-21:15:13.897667.csv saved
+2020-04-29 21:15:15,185 - root - INFO - Email sent Succesfully
+2020-04-29 21:16:03,217 - root - INFO - Watch Created
+2020-04-29 21:16:07,725 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 21:16:07,736 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 21:16:07,736 - root - INFO - Received Updates
+2020-04-29 21:16:07,737 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 21:16:09,751 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-21:16:09.745676.csv saved
+2020-04-29 21:16:09,883 - root - ERROR - Email Error: HTTP Error 400: Bad Request
+2020-04-29 21:16:42,044 - root - INFO - Watch Created
+2020-04-29 21:16:44,177 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 21:16:44,183 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 21:16:44,185 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 21:16:44,183 - root - INFO - Received Updates
+2020-04-29 21:16:46,200 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-21:16:46.193308.csv saved
+2020-04-29 21:16:46,352 - root - ERROR - Email Error: HTTP Error 400: Bad Request
+2020-04-29 21:17:18,937 - root - INFO - Watch Created
+2020-04-29 21:17:20,950 - root - WARNING - Method name: process_IN_OPEN(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_OPEN|IN_ISDIR
+2020-04-29 21:17:20,961 - root - WARNING - Method name: process_IN_ACCESS(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_ACCESS|IN_ISDIR
+2020-04-29 21:17:20,961 - root - INFO - Received Updates
+2020-04-29 21:17:20,961 - root - WARNING - Method name: process_IN_CLOSE_NOWRITE(), Path name: /home/devashish/Documents/projects/PythonHostIDS/test, Event Name: IN_CLOSE_NOWRITE|IN_ISDIR
+2020-04-29 21:17:22,974 - root - INFO - /home/devashish/Documents/projects/PythonHostIDS/reports/report-2020-04-29-21:17:22.969433.csv saved
+2020-04-29 21:17:23,374 - root - INFO - Email sent Succesfully

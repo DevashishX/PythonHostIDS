@@ -1,0 +1,15 @@
+,datetime,time,method,path,event
+0,2020-04-29 20:13:41.670132,1588171421.670168,IN_CREATE,/home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt,IN_CREATE
+1,2020-04-29 20:13:41.670676,1588171421.6706965,IN_OPEN,/home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt,IN_OPEN
+2,2020-04-29 20:13:41.671005,1588171421.671018,IN_ATTRIB,/home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt,IN_ATTRIB
+3,2020-04-29 20:13:41.672204,1588171421.6722214,IN_CLOSE_WRITE,/home/devashish/Documents/projects/PythonHostIDS/test/newsudefile.txt,IN_CLOSE_WRITE
+4,2020-04-29 20:13:41.672724,1588171421.6727338,IN_OPEN,/home/devashish/Documents/projects/PythonHostIDS/test,IN_OPEN|IN_ISDIR
+5,2020-04-29 20:13:41.672988,1588171421.6729987,IN_ACCESS,/home/devashish/Documents/projects/PythonHostIDS/test,IN_ACCESS|IN_ISDIR
+6,2020-04-29 20:13:41.673212,1588171421.673222,IN_CLOSE_NOWRITE,/home/devashish/Documents/projects/PythonHostIDS/test,IN_CLOSE_NOWRITE|IN_ISDIR
+7,2020-04-29 20:13:41.673395,1588171421.6734042,IN_OPEN,/home/devashish/Documents/projects/PythonHostIDS/test,IN_OPEN|IN_ISDIR
+8,2020-04-29 20:13:41.673605,1588171421.6736152,IN_ACCESS,/home/devashish/Documents/projects/PythonHostIDS/test,IN_ACCESS|IN_ISDIR
+9,2020-04-29 20:13:41.673780,1588171421.673789,IN_CLOSE_NOWRITE,/home/devashish/Documents/projects/PythonHostIDS/test,IN_CLOSE_NOWRITE|IN_ISDIR
+10,2020-04-29 20:13:44.140082,1588171424.1401494,IN_OPEN,/home/devashish/Documents/projects/PythonHostIDS/test,IN_OPEN|IN_ISDIR
+11,2020-04-29 20:13:44.141571,1588171424.1416268,IN_ACCESS,/home/devashish/Documents/projects/PythonHostIDS/test,IN_ACCESS|IN_ISDIR
+12,2020-04-29 20:13:44.143630,1588171424.143684,IN_ACCESS,/home/devashish/Documents/projects/PythonHostIDS/test,IN_ACCESS|IN_ISDIR
+13,2020-04-29 20:13:44.144875,1588171424.1449263,IN_CLOSE_NOWRITE,/home/devashish/Documents/projects/PythonHostIDS/test,IN_CLOSE_NOWRITE|IN_ISDIR
