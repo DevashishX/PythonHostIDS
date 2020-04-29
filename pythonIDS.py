@@ -50,9 +50,13 @@ if __name__ == "__main__":
     else:
         recvrs = [args.recvr]
 
+    sendgridapi = os.environ.get('SENDGRID_API_KEY') ##Make sure SENDGRID_API_KEY is set in the bash environment
+    if sendgridapi is None:
+        logging.error("SENDGRID_API_KEY is not set! Exiting")
+        exit(1)
+
 
     subject = "Intruder Alert! {} has been accessed or modified! on {} at ".format(watch_this, os.uname()[1])
-    sendgridapi = os.environ.get('SENDGRID_API_KEY') ##Make sure SENDGRID_API_KEY is set in the bash environment
 
     reportDir = os.path.abspath(reportDir)
     watch_this = os.path.abspath(watch_this)
