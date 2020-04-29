@@ -1,4 +1,0 @@
-,datetime,time,method,path,event
-0,2020-04-29 18:57:39.627635,1588166859.6276555,IN_OPEN,/home/devashish/Documents/projects/PythonHostIDS/test,IN_OPEN|IN_ISDIR
-1,2020-04-29 18:57:39.638158,1588166859.6381788,IN_ACCESS,/home/devashish/Documents/projects/PythonHostIDS/test,IN_ACCESS|IN_ISDIR
-2,2020-04-29 18:57:39.639750,1588166859.639766,IN_CLOSE_NOWRITE,/home/devashish/Documents/projects/PythonHostIDS/test,IN_CLOSE_NOWRITE|IN_ISDIR
