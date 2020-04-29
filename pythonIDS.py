@@ -55,6 +55,8 @@ if __name__ == "__main__":
         logging.error("SENDGRID_API_KEY is not set! Exiting")
         exit(1)
 
+    if not os.path.exists(reportDir):
+        os.makedirs(reportDir)
 
     subject = "Intruder Alert! {} has been accessed or modified! on {} at ".format(watch_this, os.uname()[1])
 
